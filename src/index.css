@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Global page styling */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f1f3f6;
+  color: #333;
+  min-height: 100vh;
+}
+
+/* React root container */
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
